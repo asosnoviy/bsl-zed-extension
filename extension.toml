@@ -1,0 +1,11 @@
+id = "bsl"
+name = "Bsl (1s) support"
+version = "0.0.1"
+schema_version = 1
+authors = ["a.sosnoviy <labotamy@gmail.com>"]
+description = "bsl (1s) support"
+repository = "https://github.com/asosnoviy/bsl-zed-extension"
+
+[grammars.bsl]
+repository = "https://github.com/alkoleft/tree-sitter-bsl"
+rev = "91efca3c969fe21cadd98e94e631c430cbc75f74"

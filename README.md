@@ -1,1 +1,1 @@
-# zed_bsl_extension
+bsl (1s) support for Zed editor
