@@ -1,9 +1,9 @@
 id = "bsl"
-name = "Bsl (1s) support"
+name = "Bsl (1c) support"
 version = "0.0.1"
 schema_version = 1
 authors = ["a.sosnoviy <labotamy@gmail.com>"]
-description = "bsl (1s) support"
+description = "bsl (1c) support"
 repository = "https://github.com/asosnoviy/bsl-zed-extension"
 
 [grammars.bsl]

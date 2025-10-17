@@ -1,1 +1,1 @@
-bsl (1s) support for Zed editor
+bsl (1c) support for Zed editor
