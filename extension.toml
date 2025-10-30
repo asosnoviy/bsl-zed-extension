@@ -1,4 +1,4 @@
-id = "bsl"
+id = "bsl-extension"
 name = "Bsl (1c) support"
 version = "0.0.1"
 schema_version = 1
@@ -9,3 +9,7 @@ repository = "https://github.com/asosnoviy/bsl-zed-extension"
 [grammars.bsl]
 repository = "https://github.com/alkoleft/tree-sitter-bsl"
 rev = "91efca3c969fe21cadd98e94e631c430cbc75f74"
+
+[language_servers.bsl-language-server]
+name = "bsl-language-server"
+languages = ["bsl"]
