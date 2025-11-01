@@ -16,7 +16,7 @@ impl zed::Extension for BslExtension {
         match worktree.which("bsl-language-server") {
             Some(path) => Ok(zed::Command {
                 command: path,
-                args: vec!["-v".into()],
+                args: vec![],
                 env: vec![],
             }),
             None => Err("Unable to find bsl-language-server from worktree".into()),

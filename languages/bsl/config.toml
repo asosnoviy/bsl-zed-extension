@@ -4,3 +4,4 @@ path_suffixes = ["bsl"]
 line_comments = ["//"]
 tab_size = 2
 hard_tabs = true
+formatter = "language_server"

@@ -2,3 +2,9 @@
 grammars/
 
 test.bsl
+
+target/
+
+Cargo.lock
+
+extension.wasm
